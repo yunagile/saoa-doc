@@ -62,27 +62,6 @@ eros 提供了:
 ![工作原理](http://on-img.com/chart_image/59c5d743e4b0d34a18d69580.png)
 [大图地址](http://on-img.com/chart_image/59c5d743e4b0d34a18d69580.png)
 
-# 开源现状
-目前 `eros` 已有数十个 app 在开发中和上线的状态，其中有正在开发中的国外应用 **starLife（100+页面）**，也有国内正在开发的**蜂觅（60+ 页面）**，还有**已上线的应用都在 0-50+ 页面不等**，涉及行业分布于资讯，医疗，招商，购物，政府，办公等等。
-
-而本木医疗（京医通）技术团队本身也基于 weex 开发了三个已上线的 app，均可在苹果商店和应用宝下载：
-* 健康首都（京医通 app版，100+页面，很多功能还未开放）
-* 本木医疗助手（30+页面）
-* 本木医生助理（20+页面）
-
-后续版本中会陆续展示优秀项目到首页，所以开发者大可放心，这不是一个 KPI 项目（公司没有 KPI ），已基于 MIT 协议开源。
-
-
-# 周边系统
-| Project | Description |
-|---------|-------------|
-| [eros-cli](https://github.com/bmfe/eros-cli) | 简单的 eros 项目构建工具，可以提供搭建，开发，调试和发布等功能。 |
-| [eros-publish](https://github.com/bmfe/eros-publish) | 简单的服务器差分包更新逻辑，需要和脚手架搭配使用。 |
-| [eros-ios-library](https://github.com/bmfe/Benmu-iOS-Library) | eros ios Weex 项目依赖库。 |
-| [eros-ios-sdk](https://github.com/bmfe/WeexiOSSDK) | eros ios Weex sdk。 |
-| [eros-android-framework](https://github.com/bmfe/WeexErosFramework) | eros weex 移动解决方案安卓端框架。 |
-| [eros-android-widget](https://github.com/bmfe/BMWidget) | eros 安卓组件库。 |
-| [eros-android-sdk](https://github.com/bmfe/WeexSDK) | eros 安卓移动解决方案安卓端 WeexSDK。 |
 
 # 社区贡献
 * [eros 网易严选](https://github.com/bmfe/eros-yanxuan-demo-v2)
@@ -90,22 +69,7 @@ eros 提供了:
 * [lygtq-eros-publish 服务器增量发布逻辑](https://github.com/hodgevk/lygtq-eros-publish)
 * [eros-node-server 服务器增量发布逻辑](https://github.com/shawn-tangsc/eros-node-server)
 
-# 讨论组
-eros 正式开源到现在已经有了一个拥有大量开发者的微信群 (只能通过邀请)，群里有大量开发者已经有 eros 产品在开发中和已上线，为了维护一个良好的环境，还请先熟知以下群规：
 
-* **此并不是流量群，也并非广告群，是为了大家一起成长，保证信息的有效性，如果发黄赌毒，不和谐言语，与学习无关的广告，推广内容，无关小程序，不会商量，直接会被踢，且不会再有入群机会。**
-* eros开发中遇到任何问题可以随时发到群里 weex开发相关可以一起讨论。
-* 如果不能及时回答也请耐心等待，群里开发丰富经验的同学会帮您一起看问题。
-* 除了 eros 自身紧急 BUG 外的问题，均需要提 issue，我们会按 issue 处理，目的是为了更好的给其他开发者参考，紧急问题请直接抛到群里，我们会直接远程帮助您调试。
-
-
-QQ群:  
-
-<img src="https://bmfe.github.io/eros-docs/zh-cn/image/eros-qq-qrcode.png" width="auto" height="200px">
-
-微信群: 
-
-<img src="https://gitee.com/uploads/images/2017/1026/154652_651ba169_1595985.jpeg" width="auto" height="200px">
 
 # License
 [MIT](https://opensource.org/licenses/MIT)
