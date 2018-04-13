@@ -63,8 +63,6 @@ weex-saoa 提供了:
 * 尽管 weex 支持编译三端，**但 weex-saoa 目前不支持浏览器端**，目前只会专注于原生。
 * 暂时不能自动使用 weex 市场，需要有原生开发能力的人支持，不过当下以集成大部分常用的Native插件。
 
-
-
 # 原理视图
 
 ![工作原理](http://on-img.com/chart_image/59c5d743e4b0d34a18d69580.png)  
