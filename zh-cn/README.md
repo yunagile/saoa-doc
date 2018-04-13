@@ -70,7 +70,7 @@ weex-saoa 提供了:
 # 社区贡献
 
 * [eros 网易严选](https://github.com/bmfe/eros-yanxuan-demo-v2)
-* [weex-eros-book 书籍阅读 app](https://github.com/wennjie/weex-book)
+* # [weex官方demo weex-hackernews](http://www.cnblogs.com/xiaoqi/p/weex-hackernews-code-part1.html)
 * [lygtq-eros-publish 服务器增量发布逻辑](https://github.com/hodgevk/lygtq-eros-publish)
 * [eros-node-server 服务器增量发布逻辑](https://github.com/shawn-tangsc/eros-node-server)
 
