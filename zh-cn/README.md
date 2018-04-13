@@ -65,8 +65,7 @@ weex-saoa 提供了:
 
 # 原理视图
 
-![工作原理](http://on-img.com/chart_image/59c5d743e4b0d34a18d69580.png)  
-[大图地址](http://on-img.com/chart_image/59c5d743e4b0d34a18d69580.png)
+
 
 # 社区贡献
 
