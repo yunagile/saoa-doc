@@ -56,7 +56,7 @@ weex-saoa 提供了:
 * [bui](https://github.com/bingo-oss/bui-weex)
 * sui \(我们自己也将单独提出UI组件\)
 
-# eros 不足
+# weex-saoa 不足
 
 > eros 开发中也有很多限制，需要开发者自行斟酌。
 
