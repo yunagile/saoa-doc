@@ -66,11 +66,12 @@ weex-saoa 提供了:
 # 原理视图
 
 ![](http://weex.apache.org/cn/guide/images/flow.png)
+![](https://user-gold-cdn.xitu.io/2017/10/19/7162895e58d238dc55654ea90c5dc3b8?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
 # 社区贡献
 
-* [eros 网易严选](https://github.com/bmfe/eros-yanxuan-demo-v2)
-* # [weex官方demo weex-hackernews](http://www.cnblogs.com/xiaoqi/p/weex-hackernews-code-part1.html)
+* [weex网易严选](https://juejin.im/entry/59af918c5188251240635a96)
+* [weex官方demo](https://github.com/weexteam/weex-hackernews)
 * [lygtq-eros-publish 服务器增量发布逻辑](https://github.com/hodgevk/lygtq-eros-publish)
 * [eros-node-server 服务器增量发布逻辑](https://github.com/shawn-tangsc/eros-node-server)
 
