@@ -65,14 +65,14 @@ weex-saoa 提供了:
 
 # 原理视图
 
-![](http://weex.apache.org/cn/guide/images/flow.png)
+![](http://weex.apache.org/cn/guide/images/flow.png)  
 ![](https://user-gold-cdn.xitu.io/2017/10/19/7162895e58d238dc55654ea90c5dc3b8?imageView2/0/w/1280/h/960/format/webp/ignore-error/1)
 
 # 社区贡献
 
 * [weex网易严选](https://juejin.im/entry/59af918c5188251240635a96)
 * [weex官方demo](https://github.com/weexteam/weex-hackernews)
-* 红塔证券demo(还未放到github上)
+* 红塔证券demo\(还未放到github上\)
 * [weex playground源码](https://github.com/apache/incubator-weex)
 
 
