@@ -31,7 +31,7 @@
 * iOS 8.0+ 
 * WebKit 534.30+ 
 
-# eros 优点
+# weex-saoa 优点
 
 eros 提供了:
 
