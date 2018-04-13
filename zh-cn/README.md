@@ -72,12 +72,10 @@ weex-saoa 提供了:
 
 * [weex网易严选](https://juejin.im/entry/59af918c5188251240635a96)
 * [weex官方demo](https://github.com/weexteam/weex-hackernews)
-* [lygtq-eros-publish 服务器增量发布逻辑](https://github.com/hodgevk/lygtq-eros-publish)
-* [eros-node-server 服务器增量发布逻辑](https://github.com/shawn-tangsc/eros-node-server)
+* 红塔证券demo(还未放到github上)
+* [weex playground源码](https://github.com/apache/incubator-weex)
 
-# License
 
-[MIT](https://opensource.org/licenses/MIT)
 
 Copyright \(c\) 2013-2018, 云南软捷科技有限公司
 
