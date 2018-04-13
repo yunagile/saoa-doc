@@ -18,6 +18,7 @@
 开发之前您需要学习 weex 知识，并且能熟练使用 vue 开发，文档地址如下。
 
 * [weex](http://weex.apache.org/cn/guide/)
+
 * [vue](https://cn.vuejs.org/v2/guide/)
 
 # 支持性
