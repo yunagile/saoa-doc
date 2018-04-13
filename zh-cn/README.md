@@ -86,5 +86,5 @@ eros 提供了:
 
 [MIT](https://opensource.org/licenses/MIT)
 
-Copyright \(c\) 2017-present, 本木医疗
+Copyright \(c\) 2013-2018, 云南软捷科技有限公司
 
