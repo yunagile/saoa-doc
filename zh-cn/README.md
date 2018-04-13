@@ -65,6 +65,8 @@ weex-saoa 提供了:
 
 # 原理视图
 
+![](http://weex.apache.org/cn/guide/images/flow.png)
+
 # 社区贡献
 
 * [eros 网易严选](https://github.com/bmfe/eros-yanxuan-demo-v2)
